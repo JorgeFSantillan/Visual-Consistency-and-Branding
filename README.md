@@ -49,7 +49,7 @@ The logo was created to support a clean and professional brand identity across t
 Custom CSS was used to control navigation color behavior across the site. The homepage used lighter navigation styling for contrast against the hero section, while internal pages used darker navigation styling for readability on lighter backgrounds.
 <br>
 
-![](CSS.png)
+![](CSS2.png)
 <br>
 
 > This helped maintain brand consistency while adapting the header design to different backgrounds.
