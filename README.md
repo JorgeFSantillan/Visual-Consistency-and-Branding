@@ -34,7 +34,7 @@ Helvetica was used as the primary typeface. This supported a clean, modern, and 
 ![](Blog-Horizontal-Helvetica.jpg.webp)
 <br>
 
-<h2>Logo & Navigation</h2>
+<h2>Logo & CSS</h2>
 
 <h3>Logo Design</h3>
 
@@ -45,9 +45,9 @@ The logo was created to support a clean and professional brand identity across t
 ![](GSA-Logo.png)
 <br>
 
-<h3>Navigation Styling CSS</h3>
+<h3>CSS</h3>
 
-Custom CSS was used to control navigation color behavior across the site. The homepage used lighter navigation styling for contrast against the hero section, while internal pages used darker navigation styling for readability on lighter backgrounds.
+Custom CSS was used to control navigation and logo color behavior across the site. The homepage used lighter navigation styling for contrast against the hero section, while internal pages used darker navigation styling for readability on lighter backgrounds.
 <br>
 
 ![](CSS2.png)
