@@ -13,22 +13,36 @@ The visual identity used a controlled color palette:
 <li>#0A1128 — dark base color</li>
 </ul>
 
+<br>
+
+![](ColorCode.png) 
+
+<br>
 The blue tones supported a professional, government-facing visual style, while the light background helped keep the content readable and clean.
 <br>
 <br>
 Blue was used because it commonly represents trust, stability, professionalism, and clarity. This aligned with the website’s government-facing financial services focus, where credibility and confidence are important.
 
-![](ColorCode.png) 
+
 
 <h2>Typography</h2>
 
 Helvetica was used as the primary typeface. This supported a clean, modern, and professional appearance while keeping headings and body text easy to read.
 
+<br>
+
+![](Blog-Horizontal-Helvetica.jpg.webp)
+<br>
+
 <h2>Logo & Navigation</h2>
 
 The logo system was created and adjusted for different page contexts. CSS was used to control logo and navigation color behavior so the homepage could use a lighter navigation style while internal pages could use darker styling for contrast and readability.
+<br>
 
-This helped maintain brand consistency while adapting the header design to different backgrounds.
+![](CSS.png)
+<br>
+
+> This helped maintain brand consistency while adapting the header design to different backgrounds.
 
 <h2>Section Design</h2>
 
