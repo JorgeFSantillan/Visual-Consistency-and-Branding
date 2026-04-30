@@ -41,7 +41,7 @@ Helvetica was used as the primary typeface. This supported a clean, modern, and 
 The logo was created to support a clean and professional brand identity across the website. Logo variations were prepared for different visual contexts, including light and dark backgrounds.
 <br>
 
-![](GSA-logo.png)
+![](GSA-Logo.png)
 <br>
 
 <h3>Navigation Styling</h3>
