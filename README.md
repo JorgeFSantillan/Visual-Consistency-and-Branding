@@ -18,6 +18,8 @@ The blue tones supported a professional, government-facing visual style, while t
 <br>
 Blue was used because it commonly represents trust, stability, professionalism, and clarity. This aligned with the website’s government-facing financial services focus, where credibility and confidence are important.
 
+![](ColorCode.png) 
+
 <h2>Typography</h2>
 
 Helvetica was used as the primary typeface. This supported a clean, modern, and professional appearance while keeping headings and body text easy to read.
