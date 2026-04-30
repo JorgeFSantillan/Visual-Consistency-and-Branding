@@ -39,12 +39,13 @@ Helvetica was used as the primary typeface. This supported a clean, modern, and 
 <h3>Logo Design</h3>
 
 The logo was created to support a clean and professional brand identity across the website. Logo variations were prepared for different visual contexts, including light and dark backgrounds.
+
 <br>
 
 ![](GSA-Logo.png)
 <br>
 
-<h3>Navigation Styling</h3>
+<h3>Navigation Styling CSS</h3>
 
 Custom CSS was used to control navigation color behavior across the site. The homepage used lighter navigation styling for contrast against the hero section, while internal pages used darker navigation styling for readability on lighter backgrounds.
 <br>
