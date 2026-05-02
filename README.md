@@ -1,10 +1,11 @@
 <h1>Visual Consistency & Branding (Page 5)</h1>
 
-<p>The homepage was reviewed for visual consistency across color, typography, logo usage, navigation styling, section design, and supporting digital assets. The goal was to create a cohesive brand presentation that felt clean, professional, and consistent across the website.</p>
+<p>The homepage is reviewed for visual consistency across color, typography, logo usage, navigation styling, section design, and supporting digital assets. The goal is to create a cohesive brand presentation that is clean, professional, and consistent across the website.</p>
 
 <h2>Color System</h2>
 
-The visual identity used a controlled color palette:
+<p>The visual identity uses a controlled color palette:</p>
+
 <ul>
 <li>#FEFCFB — light background color</li>
 <li>#1282A2 — primary accent color</li>
@@ -15,59 +16,61 @@ The visual identity used a controlled color palette:
 
 <br>
 
-![](ColorCode.png) 
+![](ColorCode.png)
 
 <br>
-The blue tones supported a professional, government-facing visual style, while the light background helped keep the content readable and clean.
-<br>
-<br>
-Blue was used because it commonly represents trust, stability, professionalism, and clarity. This aligned with the website’s government-facing financial services focus, where credibility and confidence are important.
 
+<p>The blue tones support a professional, government-facing visual style, while the light background maintains readability and clarity.</p>
 
+<p>Blue is used because it represents trust, stability, professionalism, and clarity. This aligns with the website’s government-facing financial services focus, where credibility is critical.</p>
 
 <h2>Typography</h2>
 
-Helvetica was used as the primary typeface. This supported a clean, modern, and professional appearance while keeping headings and body text easy to read.
+<p>Helvetica is used as the primary typeface. It supports a clean, modern, and professional appearance while keeping headings and body text easy to read.</p>
 
 <br>
 
 ![](Blog-Horizontal-Helvetica.jpg.webp)
+
 <br>
 
 <h2>Logo & CSS</h2>
 
 <h3>Logo Design</h3>
 
-The logo was created to support a clean and professional brand identity across the website. Logo variations were prepared for different visual contexts, including light and dark backgrounds.
+<p>The logo is designed to support a clean and professional brand identity. Variations are created for different visual contexts, including light and dark backgrounds.</p>
 
 <br>
 
 ![](GSA-Logo.png)
+
 <br>
 
 <h3>CSS</h3>
 
-Custom CSS was used to control navigation and logo color behavior across the site. The homepage used lighter navigation styling for contrast against the hero section, while internal pages used darker navigation styling for readability on lighter backgrounds.
+<p>Custom CSS controls navigation and logo color behavior across the site. The homepage uses lighter navigation styling for contrast against the hero section, while internal pages use darker styling for readability on light backgrounds.</p>
+
 <br>
 
 ![](CSS2.png)
+
 <br>
 
-> This helped maintain brand consistency while adapting the header design to different backgrounds.
+> This maintains visual consistency while allowing the header to adapt to different backgrounds.
 
 <h2>Section Design</h2>
 
-The homepage used repeated design patterns to create consistency across sections. This included structured content blocks, service cards, two-column layouts, consistent spacing, and clear background separation.
+<p>The homepage uses consistent design patterns across sections, including structured content blocks, service cards, two-column layouts, consistent spacing, and clear background separation.</p>
 
-These patterns helped the page feel organized and made the content easier to scan from top to bottom.
+<p>This creates a more organized layout and improves content scanning from top to bottom.</p>
 
 <h2>Digital Asset Alignment</h2>
 
-The website branding was aligned with supporting digital asset concepts, including logo usage, color consistency, typography, and professional presentation. This helped keep the brand identity consistent across web pages, visual materials, and business-facing communication.
+<p>The website branding aligns with supporting digital assets, including logo usage, color consistency, typography, and overall presentation. This keeps the brand consistent across web pages, visual materials, and business-facing communication.</p>
 
 <br>
 
-[Return to Page 1 ](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
+[Return to Page 1](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
 
 <br>
 
